@@ -29,7 +29,7 @@ const handleBack = () => {
 }
 </script>
 <template>
-    <div class="w-full h-screen bg-gray-900 font-sans">
+    <div class="fixed inset-0 w-full h-[100dvh] bg-black font-sans overflow-hidden">
 
         <!-- Màn hình Loading -->
         <div v-if="isLoading" class="h-full flex flex-col items-center justify-center text-white">

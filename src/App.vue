@@ -2,14 +2,20 @@
 </script>
 
 <template>
-  <main class="w-full h-screen font-sans">
+  <main class="w-full min-h-[100dvh] font-sans">
     <router-view></router-view>
   </main>
 </template>
 
 <style>
-body {
+html,
+body,
+#app {
   margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
   overflow: hidden;
+  position: fixed;
 }
 </style>
