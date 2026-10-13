@@ -1,0 +1,22 @@
+{
+    "id": "chua-mot-cot",
+    "targetId": "chuamotcot_stamp",
+    "name": "Chùa Một Cột - Hà Nội",
+    "description": "Ngôi chùa có kiến trúc độc đáo bậc nhất châu Á, biểu tượng của thủ đô ngàn năm văn hiến được xây dựng từ thời vua Lý Thái Tông.",
+    "modelUrl": "/data/chua-mot-cot/model.glb",
+    "audioUrl": "/data/chua-mot-cot/audio.mp3",
+    "mapsUrl": "https://maps.app.goo.gl/exampleChuaMotCot",
+    "modelConfig": {
+        "scale": 1.5,
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "cot-co-lung-cu",
+    "targetId": "lungcu_stamp",
+    "name": "Cột cờ Lũng Cú - Hà Giang",
+    "description": "Di tích lịch sử quốc gia, biểu tượng thiêng liêng khẳng định chủ quyền lãnh thổ tại điểm cực Bắc của Tổ quốc.",
+    "modelUrl": "/data/cot-co-lung-cu/model.glb",
+    "audioUrl": "/data/cot-co-lung-cu/audio.mp3",
+    "mapsUrl": "https://maps.app.goo.gl/exampleLungCu",
+    "modelConfig": {
+        "scale": 1.0,
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    }
+}
